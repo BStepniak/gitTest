@@ -1,2 +1,0 @@
-To jest 1 wersja pliku text1
-Zmiana w pliku text1
